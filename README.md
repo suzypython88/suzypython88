@@ -24,10 +24,17 @@ Welcome to my data portfolio! Here, I document a summary of the projects and cou
 | 👨‍👩‍👦 [Demographic Data Analyzer](xxxxxxx) | Sept 2025 | Project | Exploratory Data Analysis | Data Analysis with Python Coursework: Project 2. Analyze demographic data from the 1994 US Census database | Pandas |
 | 📐 [Mean-Variance-Standard Deviation Calculator](xxxxx) | Sept 2025 | Project | Statistics, Functions | Data Analysis with Python Coursework: Project 1. Create a function that uses Numpy to output the mean, variance, standard deviation, max, min and totals | Numpy |
 
-
-
-
-
-
-
 ***
+
+# Power BI
+
+| Project Link | Completion Date | Project Type | Skills | Project Description | Features |
+|---|---|---|---|---|---|
+| 📆  [NIDirect.co.uk Website Daily Trends](xxxx) | Nov 2025 | Project | Data Cleaning, Data Aggregation, Semantic Model, Dashboard Visualisations | Dashboard visualisations to display daily trends in website visits to NIDirect.co.uk |  Semantic Model, Time Intelligence, Filters, Custom Calculations |
+| 🏙️ [PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/training/courses/pl-300t00) | Nov 2025 | Course | Data Preparation, Data Modeling, Report Design, Advanced Analytics, Backend Management | Official Microsoft Course PL-300T00-A: Design and manage analytics solutions using Power BI leading to certification| Semantic Models, DAX Queries, Time Intelligence, Filters, Custom Calculations |
+
+
+
+
+
+
