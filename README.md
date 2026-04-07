@@ -42,7 +42,10 @@ Welcome to my data portfolio! Here, I document a summary of the projects and cou
 ***
 
 # R
-
+https://github.com/suzypython88/r-msc-statistics-berratings/blob/main/README.md
+| Project Link | Completion Date | Project Type | Skills | Project Description | Features |
+|---|---|---|---|---|---|
+| 🏠 [MSc Statistics Thesis: Modelling BERs](https://github.com/suzypython88/r-msc-statistics-berratings/blob/main/README.md) | Thesis | R, Predictive Modelling, Data Cleaning, Data Transformation | "Is the Sustainably Energy Authority of Ireland Building Energy Rating database representative of the entire Irish housing stock?" - Modelling Irish census data to predict building energy ratings and compare the distribution to the database of the SEAI | Random Forrest, Poisson Regression, MCMC Data Augmentation |
 ***
 
 # SPSS
