@@ -17,7 +17,7 @@ Welcome to my data portfolio! Here, I document a summary of the projects and cou
 | 🩸 [Diabetes Blood Glucose Analysis](xxxx) | Ongoing | Project | Data Cleaning, Data Wrangling, Exploratory Data Analysis and Data Visualisation | Exploratory data analysis of the daily blood glucose levels of a type 1 diabetic (my boyfriend) using a FreeStyle Libre 2 arm sensor and log of associated activities to assess trigger points and solutions for better health outcomes | Pandas, Matplotlib, Seaborn |
 | 🚙 [NI Potholes](https://github.com/suzypython88/ni-carriageway-defects-analysis) | Dec 2025 | Project | Data Cleaning, Data Wrangling, Exploratory Data Analysis and Data Visualisation | Exploratory data analysis of the Northern Ireland carriageway and footway surface defects using public data from the NI Department for Infrastructure | Pandas, Numpy, Matplotlib, Seaborn |
 | 🦸‍♀️ [Data Analysis with Python: Zero to Pandas](https://jovian.com/learn/data-analysis-with-python-zero-to-pandas) | Oct 2025 | Course | Python Basics and Best Practices, Data Visualization, Exploratory Data Analysis | 6-week course ([jovian.com](https://jovian.com/learn/data-analysis-with-python-zero-to-pandas) that is an introduction to data analysis covering the basics of Python, analysis and visualisation | Pandas, Numpy, Matplotlib, Seaborn | 
-| 💻 [Data Analysis with Python](https://github.com/suzypython88/free-code-camp-projects) | Oct 2025 | Course | Numpy, Jupyter Notebooks, Pandas, Data Cleaning, Reading Data, Python (Functions, Collections, Iterations and Modules) | Learnt the fundamentals of data analysis with Python ([freeCodeCamp.com](https://www.freecodecamp.org/learn/data-analysis-with-python/)). Certification to read data from sources like CSVs and SQL, and use common libraries to process, analyse and visualize data | Numpy, Pandas, Matplotlib, Seaborn |
+| 💻 [Data Analysis with Python](https://github.com/suzypython88/free-code-camp-projects) | Oct 2025 | Course | Numpy, Jupyter Notebooks, Pandas, Data Cleaning, Reading Data, Python (Functions, Collections, Iterations and Modules) | Learn the fundamentals of data analysis with Python ([freeCodeCamp.com](https://www.freecodecamp.org/learn/data-analysis-with-python/)). Certification to read data from sources like CSVs and SQL, and use common libraries to process, analyse and visualize data | Numpy, Pandas, Matplotlib, Seaborn |
 | 🌊 [Sea Level Predictor](xxxxxx) | Oct 2025 | Project | Data Visualisation, Statistics | Data Analysis with Python Coursework: Project 5. Analyze a dataset of the global average sea level change since 1880. Use the data to predict the sea level change through to the year 2050 | Pandas, Matplotlib, SciPy |
 | 📈 [Page View Time Series Visualizer](xxxxx) | Oct 2025 | Project | Data Transformation, Data Visualisation | Data Analysis with Python Coursework: Project 4. Visualize time series data using a line chart, bar chart, and box plots to analyse the patterns in web page visits and identify yearly and monthly growth | Pandas, Matplotlib, Seaborn |
 | 📊 [Medical Data Visualizer](xxxxxxx) | Oct 2025 | Project | Data Transformation, Data Visualisation | Data Analysis with Python Coursework: Project 3. Visualize and make calculations from medical examination data | Pandas, Matplotlib, Seaborn |
@@ -30,9 +30,14 @@ Welcome to my data portfolio! Here, I document a summary of the projects and cou
 
 | Project Link | Completion Date | Project Type | Skills | Project Description | Features |
 |---|---|---|---|---|---|
-| 📆  [NIDirect.co.uk Website Daily Trends](xxxx) | Nov 2025 | Project | Data Cleaning, Data Aggregation, Semantic Model, Dashboard Visualisations | Dashboard visualisations to display daily trends in website visits to NIDirect.co.uk |  Semantic Model, Time Intelligence, Filters, Custom Calculations |
 | 🏙️ [PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/training/courses/pl-300t00) | Nov 2025 | Course | Data Preparation, Data Modeling, Report Design, Advanced Analytics, Backend Management | Official Microsoft Course PL-300T00-A: Design and manage analytics solutions using Power BI leading to certification| Semantic Models, DAX Queries, Time Intelligence, Filters, Custom Calculations |
 
+***
+
+# SQL
+| Project Link | Completion Date | Project Type | Skills | Project Description | Features |
+|---|---|---|---|---|---|
+| 💻 [Relational Databases Certification](https://www.freecodecamp.org/learn/relational-databases-v9/) | Ongoing | Course | PostgreSQL, Creating/Altering Databases and Tables, Bash, Command Line, Git | Learn the fundamentals of relational databases, PostgreSQL and Bash scripting to earn certification [freeCodeCamp.com](https://www.freecodecamp.org/learn/relational-databases-v9/)
 
 
 
