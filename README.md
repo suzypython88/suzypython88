@@ -39,6 +39,16 @@ Welcome to my data portfolio! Here, I document a summary of the projects and cou
 |---|---|---|---|---|---|
 | 💻 [Relational Databases Certification](https://www.freecodecamp.org/learn/relational-databases-v9/) | Ongoing | Course | PostgreSQL, Creating/Altering Databases and Tables, Bash, Command Line, Git | Learn the fundamentals of relational databases, PostgreSQL and Bash scripting to earn certification [freeCodeCamp.com](https://www.freecodecamp.org/learn/relational-databases-v9/)
 
+***
+
+# R
+
+***
+
+# SPSS
+| Project Link | Completion Date | Project Type | Skills | Project Description | Features |
+|---|---|---|---|---|---|
+| 📋 [Psychology Degree Thesis: Synaethesia & Spelling](https://github.com/suzypython88/spss-psychology-thesis) | 2011 | Thesis | SPSS, Statistics, SuperLab | "Grapheme-colour synaesthesia may not improve performance in tests of spelling ability." - Comparison of recall and spelling accuracy of experimental nonsense words between participants with and without synaesthsia (neurological condiditon) | Experimental Design, Statistical Analysis |
 
 
 
